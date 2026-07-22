@@ -1,31 +1,27 @@
 class Solution {
 public:
-    typedef pair<TreeNode*,int>p;
+    map<int, map<int, multiset<int>>> mp;
+    void dfs(TreeNode* node, int row, int col) {
+        if (node == NULL) return;
+        mp[col][row].insert(node->val);     
+        dfs(node->left, row + 1, col - 1);
+        dfs(node->right, row + 1, col + 1);
+    }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        vector<vector<int>>v;map<int,vector<int>>mp;
-        queue<p>q;q.push({root,0});
-        while(!q.empty() && q.front().first!=NULL){
-           int n=q.size();map<int,vector<int>>currtrav;
-           for(int i=0;i<n;i++){
-            TreeNode* curr=q.front().first;int col=q.front().second;
-            currtrav[col].push_back(curr->val);q.pop();
-            if(curr->left)q.push({curr->left,col-1});
-            if(curr->right)q.push({curr->right,col+1});
-           }
-           for(auto x: currtrav){
-            vector<int>currnode=x.second;
-            if(currnode.size()>1)sort(currnode.begin(),currnode.end());
-            for(int i=0;i<currnode.size();i++){
-                mp[x.first].push_back(currnode[i]);
+        dfs(root,0,0);
+        vector<vector<int>>ans;
+        for(auto x : mp){
+            int col = x.first;vector<int>g;
+            map<int,multiset<int>> rowmap=x.second;
+            for(auto y : rowmap){
+                int row=y.first;
+                multiset<int>v=y.second;
+                for(auto z : v){
+                     g.push_back(z);
+                }
             }
-
-           }
+            ans.push_back(g);
         }
-        while(mp.size()>0){
-            pair<int,vector<int>> curr= *mp.begin();
-            v.push_back(curr.second);
-            mp.erase(curr.first);
-        }
-return v;
+        return ans;
     }
 };
