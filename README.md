@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omkar7goat/LEETCODE/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0090-subsets-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omkar7goat/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/omkar7goat/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omkar7goat/LEETCODE/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/omkar7goat/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/omkar7goat/LEETCODE/tree/master/0877-stone-game) |
@@ -86,5 +88,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omkar7goat/LEETCODE/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
