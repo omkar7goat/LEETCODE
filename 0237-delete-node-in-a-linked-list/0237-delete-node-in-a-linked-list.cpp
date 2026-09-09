@@ -1,15 +1,16 @@
-
 class Solution {
 public:
-    
     void deleteNode(ListNode* node) {
-        ListNode*abc;
-        while(node->next!=NULL){
-            int a=node->val;abc=node;
-            int b=node->next->val;
-            node->val=b;node=node->next;            
-        }
-        abc->next=NULL;
-
+        // Copy the next node's value into the current node
+        node->val = node->next->val;
+        
+        // Save the next node to delete its memory
+        ListNode* temp = node->next;
+        
+        // Bypass the next node
+        node->next = node->next->next;
+        
+        // Free allocated memory (good practice in C++)
+        delete temp;
     }
 };
