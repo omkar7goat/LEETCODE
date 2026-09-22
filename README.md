@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/omkar7goat/LEETCODE/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkar7goat/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/omkar7goat/LEETCODE/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/omkar7goat/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/omkar7goat/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/omkar7goat/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/omkar7goat/LEETCODE/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/omkar7goat/LEETCODE/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -165,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/omkar7goat/LEETCODE/tree/master/1289-minimum-falling-path-sum-ii) |
 <!---LeetCode Topics End-->
