@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/omkar7goat/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/omkar7goat/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omkar7goat/LEETCODE/tree/master/0055-jump-game) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/omkar7goat/LEETCODE/tree/master/0035-search-insert-position) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkar7goat/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
