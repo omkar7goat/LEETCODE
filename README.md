@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/omkar7goat/LEETCODE/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/omkar7goat/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/omkar7goat/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omkar7goat/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/omkar7goat/LEETCODE/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/omkar7goat/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/omkar7goat/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omkar7goat/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omkar7goat/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/omkar7goat/LEETCODE/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/omkar7goat/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/omkar7goat/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/omkar7goat/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omkar7goat/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/omkar7goat/LEETCODE/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -189,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omkar7goat/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/omkar7goat/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
