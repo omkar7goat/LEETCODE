@@ -1,16 +1,18 @@
 class Solution {
 public:
     int findPeakElement(vector<int>& v) {
-        int n=v.size(),lo=0,hi=n-1;
-        while(lo<=hi){
-            int mid=lo+(hi-lo)/2;
-            long long a=-1e12,b=-1e12;
-            if(mid+1<=n-1)a=v[mid+1];
-            if(mid-1>=0)b=v[mid-1];
-            if((v[mid]>a)&&(v[mid]>b))return mid;
-            if(v[mid]>b)lo=mid+1;
-            else hi=mid-1;
+        int lo = 0, hi = v.size() - 1;
+        
+        while (lo < hi) {
+            int mid = lo + (hi - lo) / 2;
+            
+            if (v[mid] < v[mid + 1]) {
+                lo = mid + 1; // Uphill to the right -> search right
+            } else {
+                hi = mid;     // Uphill to the left or mid is peak -> search left
+            }
         }
-        return 0;
+        
+        return lo; // lo == hi, converged on a peak
     }
 };
