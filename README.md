@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/omkar7goat/LEETCODE/tree/master/1014-best-sightseeing-pair) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/omkar7goat/LEETCODE/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/omkar7goat/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/omkar7goat/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/omkar7goat/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/omkar7goat/LEETCODE/tree/master/0162-find-peak-element) |
 | [0875-koko-eating-bananas](https://github.com/omkar7goat/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkar7goat/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/omkar7goat/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
 |  |
 | ------- |
