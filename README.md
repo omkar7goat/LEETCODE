@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/omkar7goat/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/omkar7goat/LEETCODE/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0518-coin-change-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/omkar7goat/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/omkar7goat/LEETCODE/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/omkar7goat/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omkar7goat/LEETCODE/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/omkar7goat/LEETCODE/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omkar7goat/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/omkar7goat/LEETCODE/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/omkar7goat/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkar7goat/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/omkar7goat/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkar7goat/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/omkar7goat/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bracket Sequences
