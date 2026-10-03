@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/omkar7goat/LEETCODE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/omkar7goat/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omkar7goat/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/omkar7goat/LEETCODE/tree/master/0877-stone-game) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/omkar7goat/LEETCODE/tree/master/0231-power-of-two) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omkar7goat/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/omkar7goat/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/omkar7goat/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/omkar7goat/LEETCODE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/omkar7goat/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/omkar7goat/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Memoization
