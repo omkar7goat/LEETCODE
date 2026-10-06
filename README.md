@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omkar7goat/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omkar7goat/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -169,10 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omkar7goat/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/omkar7goat/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omkar7goat/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
