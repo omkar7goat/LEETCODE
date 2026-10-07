@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/omkar7goat/LEETCODE/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/omkar7goat/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/omkar7goat/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0738-monotone-increasing-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0738-monotone-increasing-digits) |
 | [0877-stone-game](https://github.com/omkar7goat/LEETCODE/tree/master/0877-stone-game) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/omkar7goat/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/omkar7goat/LEETCODE/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0738-monotone-increasing-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0738-monotone-increasing-digits) |
 ## Linked List
 |  |
 | ------- |
