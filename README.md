@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/omkar7goat/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0402-remove-k-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/omkar7goat/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/omkar7goat/LEETCODE/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Linked List
 |  |
@@ -170,11 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omkar7goat/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/omkar7goat/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omkar7goat/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
