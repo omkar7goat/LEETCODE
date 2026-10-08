@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/omkar7goat/LEETCODE/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/omkar7goat/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/omkar7goat/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/omkar7goat/LEETCODE/tree/master/0322-coin-change) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/omkar7goat/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/omkar7goat/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/omkar7goat/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/omkar7goat/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/omkar7goat/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omkar7goat/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Greedy
