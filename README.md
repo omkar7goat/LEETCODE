@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/omkar7goat/LEETCODE/tree/master/1014-best-sightseeing-pair) |
 | [1143-longest-common-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/omkar7goat/LEETCODE/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omkar7goat/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/omkar7goat/LEETCODE/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Recursion
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/omkar7goat/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omkar7goat/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/omkar7goat/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/omkar7goat/LEETCODE/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 ## Backtracking
