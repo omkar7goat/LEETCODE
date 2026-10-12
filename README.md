@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/omkar7goat/LEETCODE/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1014-best-sightseeing-pair](https://github.com/omkar7goat/LEETCODE/tree/master/1014-best-sightseeing-pair) |
+| [1143-longest-common-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/omkar7goat/LEETCODE/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/omkar7goat/LEETCODE/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 ## Recursion
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/omkar7goat/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/omkar7goat/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0402-remove-k-digits) |
+| [1143-longest-common-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/omkar7goat/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Backtracking
 |  |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/omkar7goat/LEETCODE/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
