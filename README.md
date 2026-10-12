@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/omkar7goat/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/omkar7goat/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/omkar7goat/LEETCODE/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0738-monotone-increasing-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0738-monotone-increasing-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/omkar7goat/LEETCODE/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkar7goat/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/omkar7goat/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2207-maximize-number-of-subsequences-in-a-string](https://github.com/omkar7goat/LEETCODE/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
