@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/omkar7goat/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/omkar7goat/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/omkar7goat/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/omkar7goat/LEETCODE/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/omkar7goat/LEETCODE/tree/master/0368-largest-divisible-subset) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/omkar7goat/LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/omkar7goat/LEETCODE/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/omkar7goat/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omkar7goat/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/omkar7goat/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
@@ -193,11 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/omkar7goat/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/omkar7goat/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/omkar7goat/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/omkar7goat/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/omkar7goat/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/omkar7goat/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/omkar7goat/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/omkar7goat/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omkar7goat/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/omkar7goat/LEETCODE/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/omkar7goat/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/omkar7goat/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -288,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/omkar7goat/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
