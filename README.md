@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/omkar7goat/LEETCODE/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/omkar7goat/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omkar7goat/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/omkar7goat/LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/omkar7goat/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/omkar7goat/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/omkar7goat/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/omkar7goat/LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/omkar7goat/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkar7goat/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-best-sightseeing-pair](https://github.com/omkar7goat/LEETCODE/tree/master/1014-best-sightseeing-pair) |
+| [1020-number-of-enclaves](https://github.com/omkar7goat/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/omkar7goat/LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/omkar7goat/LEETCODE/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/omkar7goat/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/omkar7goat/LEETCODE/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/omkar7goat/LEETCODE/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/omkar7goat/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/omkar7goat/LEETCODE/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Knapsack Problem
 |  |
@@ -317,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/omkar7goat/LEETCODE/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/omkar7goat/LEETCODE/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
