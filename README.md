@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/omkar7goat/LEETCODE/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/omkar7goat/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/omkar7goat/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/omkar7goat/LEETCODE/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-stone-game](https://github.com/omkar7goat/LEETCODE/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/omkar7goat/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/omkar7goat/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/omkar7goat/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/omkar7goat/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/omkar7goat/LEETCODE/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/omkar7goat/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/omkar7goat/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0738-monotone-increasing-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0738-monotone-increasing-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2207-maximize-number-of-subsequences-in-a-string](https://github.com/omkar7goat/LEETCODE/tree/master/2207-maximize-number-of-subsequences-in-a-string) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/omkar7goat/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/omkar7goat/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/omkar7goat/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/omkar7goat/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/omkar7goat/LEETCODE/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/omkar7goat/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/omkar7goat/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
 | ------- |
